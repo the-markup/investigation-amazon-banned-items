@@ -61,9 +61,9 @@ Additional banned items mentioned in story.
   </tbody>
 </table>
 
-Main findings link: [Formatted](https://github.com/the-markup/investigation-amazon-banned-items/blob/master/data/amazon-banned-items-findings.csv) | [Raw](https://raw.githubusercontent.com/the-markup/investigation-amazon-banned-items/master/data/amazon-banned-items-findings.csv?token=AADIYQZYOK5H56RIINPDSNK66P46Q)
+Main findings link: [Formatted](https://github.com/the-markup/investigation-amazon-banned-items/blob/master/data/amazon-banned-items-findings.csv) | [Raw](https://raw.githubusercontent.com/the-markup/investigation-amazon-banned-items/master/data/amazon-banned-items-findings.csv)
 
-Additional items link: [Formatted](https://github.com/the-markup/investigation-amazon-banned-items/blob/master/data/amazon-banned-items-additional-items.csv) | [Raw](https://raw.githubusercontent.com/the-markup/investigation-amazon-banned-items/master/data/amazon-banned-items-additional-items.csv?token=AADIYQYQQD3O6TR7DPR6UYS66P5A6)
+Additional items link: [Formatted](https://github.com/the-markup/investigation-amazon-banned-items/blob/master/data/amazon-banned-items-additional-items.csv) | [Raw](https://raw.githubusercontent.com/the-markup/investigation-amazon-banned-items/master/data/amazon-banned-items-additional-items.csv)
 
 
 ## Licensing
